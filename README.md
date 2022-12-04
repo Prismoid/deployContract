@@ -18,9 +18,9 @@ bytecode.json
 注意: 以下のようにしてPython3のパッケージをインストールする必要あります
 ```
 !pip install eth_account
-!pip install web3
 !pip uninstall protobuf // Google Colabの場合必要
 !pip install protobuf==3.19.5 // Google Colabの場合必要
+!pip install web3
 ```
 
 4. 実装されたコントラクトに関する以下の情報が得られる
